@@ -7,6 +7,7 @@ function App() {
   return (
     <>
      <MovieByTitle title="Gully Boy"/>
+     <MoviesTitles/>
     </>
   )
 }
